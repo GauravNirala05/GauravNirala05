@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Nirala</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravnirala05" alt="gauravnirala05" /></a> </p>
-
 - 💬 Ask me about **JavaScript NodeJs**
 
 - 📫 How to reach me **gauravnirala70@gmail.com**
