@@ -1,6 +1,9 @@
-
 <h1 align="center">Hi 👋, I'm Gaurav Nirala</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+
+- 🔭 I’m currently working on **a wedsite development**
+
+- 🌱 I’m currently learning **react**
 
 - 💬 Ask me about **JavaScript NodeJs**
 
